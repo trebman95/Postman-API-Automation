@@ -34,27 +34,29 @@ In this project, I will walkthrough my responsibilities as a Software QA Enginee
 
 <p align="center">
 Created a checklist for the app's main functionality, focusing on accessing the user's account and tracking daily user activity. Then, I conducted a Smoke Test with the intent of creating bug tickets in Jira if any checks failed: <br/>
-<img src="https://i.imgur.com/kC8K0Ri.png" height="80%" width="80%" alt="Administrator Account"/>
-<img src="https://i.imgur.com/5kIMUl8.png" height="80%" width="80%" alt="Administrator Account"/>
+<img src="https://i.imgur.com/foIaaEm.png" height="80%" width="80%" alt="Administrator Account"/>
 <br />
 <br />
 Began the test case execution using TestRail. Created new test runs and select the proper status for each test case :  <br/>
-<img src="https://i.imgur.com/YrAXoo9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AomMswT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Created a minimum of 15 test cases for any of the features. Consisting of positive and negative test cases: <br/>
-<img src="https://i.imgur.com/xBHqyXu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WkkD2PP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Start Regression testing by executing up to 60 test cases across other test cases that we created from my team and corrected any of my test cases that were in the "Retest" status from my team :  <br/>
-<img src="https://i.imgur.com/m47ArW2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5VFFJhv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Used Android Studio for mobile application to execute any test cases on the core functionalities :  <br/>
-<img src="https://i.imgur.com/HkXiLq7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZACzquy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Using ChromeDev Tools to analyze API Request and reporting any bug reports to the Dev team for review. Lastly, performed bug triage to ensure the completeness of the bug report:  <br/>
-<img src="https://i.imgur.com/em4CHtE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/BXjpnsv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MQAssLf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Used Android Studio for mobile application to execute any test cases on the core functionalities :  <br/>
+<img src="https://i.imgur.com/vPP72Q6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
