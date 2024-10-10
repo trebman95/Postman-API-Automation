@@ -9,11 +9,13 @@ In this project, I will walkthrough my API automation process using Postman to s
 
 - <b>Non-Functional Testing</b>
 - <b>API Testing</b>
+- <b>Test Automation</b>
 
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>Postman</b>
+- <b> JavaScript<b/>
 - <b>Swagger Editor</b>
 
 <h2>Environments Used </h2>
