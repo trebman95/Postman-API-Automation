@@ -1,26 +1,20 @@
 # Postman: API Automation
 
 <h2>Description</h2>
-In this project, I will walkthrough my responsibilities as a Software QA Engineer for Reelly. Performed functional, UI, smoke and regression testing. Also participated in daily stand-ups and sprint planning using Agile methodologies. Reelly is a web/mobile app that consolidates Dubai developer projects, enabling agents to quickly create personalized property offers and track buyer behavior analytics. Executing test cases and tracking bug issues in Jira were very interesting task to learn as I know that they will be very essential skills towards my career in software quality assurance.
+In this project, I will walkthrough my API automation process using Postman to set up collections for organized API requests, using environment variables for flexibility, and writing test scripts to validate responses. I chain requests to simulate real-world workflows and conduct data-driven testing with external files to cover multiple test cases. I automated test execution by integrating Postman with CI/CD pipelines via Newman, ensuring continuous testing and quality monitoring. Detailed reports and notifications help track issues, while Postman’s collaboration tools allow for seamless teamwork and version control throughout the development lifecycle.
 <img src="https://i.imgur.com/mFitgQx.jpg" height="80%" width="80%" alt="Administrator Account"/>
 <br />
 
 <h2>Concepts</h2>
 
-- <b>Functional Testing</b>
-- <b>Usability Testing</b>
-- <b>Regression Testing</b>
-- <b>Smoke Testing</b>
+- <b>Non-Functional Testing</b>
 - <b>API Testing</b>
-- <b>Executing Test Cases and Bug Reports</b>
+
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Jira</b>
-- <b>Google Docs</b> 
-- <b>TestRail</b> 
-- <b>Chrome DevTools</b>
-- <b>Android Studio</b>
+- <b>Postman</b>
+- <b>Swagger Editor</b>
 
 <h2>Environments Used </h2>
 
