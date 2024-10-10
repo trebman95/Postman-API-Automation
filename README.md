@@ -30,7 +30,8 @@ In this project, I will walkthrough my API automation process using Postman to s
 <p align="center">
 This is the Swagger Editor that was used to access the pet store with JSON objects:  <br/>
 <img src="https://i.imgur.com/vPP72Q6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+<br />
+<br />
 A POST request is being made to the /pet endpoint at https://petstore.swagger.io/v2/pet. The request body contains a JSON object representing a new pet being added to the store : <br/>
 <img src="https://i.imgur.com/foIaaEm.png" height="80%" width="80%" alt="Administrator Account"/>
 <br />
